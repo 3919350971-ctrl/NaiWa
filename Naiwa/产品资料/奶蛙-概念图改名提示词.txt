@@ -1,0 +1,6 @@
+生成工具：内置 imagegen。模式：text-localization。
+输入：已有桌面宠物产品概念图。输出：奶蛙-产品概念图.png。
+
+Change ONLY the large top-left Chinese character name from “旧角色名称” to exactly “奶蛙” (two characters: 奶 and 蛙). Keep its dark olive handwritten display typography, its placement, scale, visual weight, and yellow decorative marks. Preserve the entire board layout, every character rendering, poses, background, Windows scene, lighting, colors, and ALL other Chinese text exactly as the input. No redesign, no additional text, no changed character identity. Output the same full landscape board, with the new name legible and spelled exactly 奶蛙.
+
+注：归档输入图的旧标题在实际提交工具时按原图名称给出；交付资料统一采用奶蛙。

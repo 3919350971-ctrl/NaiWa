@@ -1,0 +1,13 @@
+﻿生成方式：内置 imagegen；输入：用户提供的角色参考图；输出：透明 PNG 图集，运行资源位于 assets。
+
+Use case: stylized-concept.
+Asset type: production desktop-pet pose atlas, transparent PNG.
+Input image 1 is the exact character identity reference.
+Create a clean 4 COLUMN by 3 ROW rectangular atlas, aspect ratio 4:3. Exactly TWELVE evenly sized square cells in a strict invisible grid. Each cell contains ONE full-body rendering of the SAME character. Output must have a true transparent background. No text, labels, borders, grid lines, cast ground shadow, props, decorative marks, human hands, speech bubbles or extra objects.
+Preserve reference identity meticulously: long rounded pear-shaped golden yellow body, large pale beige belly patch, bulging green eyes with black pupils, tiny thin horizontal mouth, short arms, dark olive-brown fingers and toes, thick tapered legs. No ears, tail, fur, beak or new appendages. Soft warm high quality 3D clay-like material. Consistent camera, illumination, proportions and three-quarter view oriented toward viewer-left.
+Every character must fit COMPLETELY within its cell with at least 12% transparent margin, never touching adjacent cells. Same body size across the atlas. Feet baseline at 88% of cell height for standing poses; seated poses are naturally shorter with the same body mass, soles at same baseline. Center horizontally. Maintain clear separation.
+Read cells left to right, top to bottom:
+Row 1: (1) idle, standing holding belly, eyes open; (2) blink, same idle pose but both eyes closed; (3) enjoying a head pat, eyes closed, head gently tilted, arms still hugging belly, NO human hand; (4) one hand lightly taps own belly, content expression.
+Row 2: (5) being picked up, arms drooping and both knees bent, feet lifted, no hand or string; (6) landing, knees slightly bent, hands hold belly; (7) sitting awake, feet forward, hands on belly; (8) sitting asleep, closed eyes, hands on belly.
+Row 3: (9) awakening stretch, standing both arms gently raised beside head, eyes half-open; (10) curious standing, eyes look to the left, hands hold belly; (11) curious standing, eyes look to the right, hands hold belly; (12) small walking step, one foot raised, arms relaxed.
+This is an asset atlas, not a product concept board. True alpha transparency everywhere outside the characters; do not simulate transparency with a checkerboard or white background.
